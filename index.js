@@ -8,3 +8,15 @@ function getUserData(id) {
     db3: db3
   };
 }
+
+try {
+    const dbName = await central(id):
+
+    const [dbData, valutData] = await Promise.all([
+        dbs][dbName](id),
+        vault(id)
+    ]);
+
+    
+
+}
